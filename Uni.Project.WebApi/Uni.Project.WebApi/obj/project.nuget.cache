@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TSSFFvp3PsTtRQ02tBLNMjcpYAGTskEdlwZk1gnunPJYLYXLaacVZzyrWyjEPtpfseRX4P36n/9ny2OsuuBxSA==",
+  "dgSpecHash": "byquXPaFEfwmoAIE3CvaOJqKiUOoSZZE6H+bpgekcLw4rw+p1A4WRco6fkWFU8QGyzKiHELQatfW7UQfs3SLOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\Desktop\\Uni-Game-Project\\Uni.Project.WebApi\\Uni.Project.WebApi\\Uni.Project.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Desktop\\Uninove\\Uni-Game-Project-Api\\Uni.Project.WebApi\\Uni.Project.WebApi\\Uni.Project.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

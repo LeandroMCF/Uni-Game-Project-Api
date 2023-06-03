@@ -34,6 +34,12 @@ namespace Uni.Project.WebApi.Controllers
 
         }
 
+        [HttpGet("server")]
+        public IActionResult Server()
+        {
+            return Ok("Work!");
+        }
+
         [HttpPost("login/{email}/{password}")]
         public IActionResult Login(string email, string password)
         {
